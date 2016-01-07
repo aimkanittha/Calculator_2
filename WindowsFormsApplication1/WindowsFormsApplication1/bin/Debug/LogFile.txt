@@ -1,0 +1,15 @@
+
+1/6/2016 4:01:14 PM from WindowForm  :  123 + 456 = 579
+1/6/2016 4:04:59 PM from WindowForm  :  123  452 = 
+1/6/2016 4:05:02 PM from WindowForm  :  123 + 452 = 575
+1/6/2016 4:05:23 PM from WindowForm  :  123 + 452 = 575
+1/6/2016 4:05:29 PM from WindowForm  :  453 + 12 = 465
+1/6/2016 4:11:33 PM from WindowForm  :  23 + 236 = 259
+1/6/2016 4:11:42 PM from WindowForm  :  63 + 55 = 118
+1/6/2016 4:16:09 PM from WindowForm  :  123 + 562 = 685
+1/6/2016 4:16:16 PM from WindowForm  :  253 - 85.2 = 167.8
+1/6/2016 4:25:02 PM from WindowForm  :  56 + 93 = 149
+1/6/2016 4:26:29 PM from WindowForm  :  78 * 95 = 7410
+1/6/2016 4:57:17 PM from WindowForm  :  98 + 83 = 181
+1/7/2016 9:58:47 AM from WindowForm  :  12369 - 5396 = 6973
+1/7/2016 10:12:57 AM from WindowForm  :  78 - 96 = -18

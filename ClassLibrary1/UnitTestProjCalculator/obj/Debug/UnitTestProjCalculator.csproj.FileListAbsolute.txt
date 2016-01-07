@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProjCalculator\bin\Debug\UnitTestProjCalculator.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProjCalculator\bin\Debug\UnitTestProjCalculator.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProjCalculator\bin\Debug\ClassLibrary1.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProjCalculator\bin\Debug\ClassLibrary1.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProjCalculator\obj\Debug\UnitTestProjCalculator.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProjCalculator\obj\Debug\UnitTestProjCalculator.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestProjCalculator\obj\Debug\UnitTestProjCalculator.pdb
