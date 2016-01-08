@@ -9,12 +9,12 @@ namespace ClassLibrary1
 {
     public class Calculator
     {
-        
+        //Test STATUS
 	//Test edit with UI
 	private double first, second;
         private string sum ,operator1;
         private InterfaceLog log = null;
-        //Polymorphism
+        //Polymorphismcc
         //private calNumber[] cal = new calNumber[4];
         //private calNumber cal = new calNumber();
         private List<calNumber> calStore = new List<calNumber>();
