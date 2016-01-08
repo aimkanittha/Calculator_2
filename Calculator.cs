@@ -12,7 +12,7 @@ namespace ClassLibrary1
         private double first, second;
         private string sum ,operator1;
         private InterfaceLog log = null;
-        //Polymorphism
+        //Polymorphismccc
         private calNumber[] cal = new calNumber[4];
         //private ArrayList calStore = new ArrayList();
 
