@@ -9,7 +9,9 @@ namespace ClassLibrary1
 {
     public class Calculator
     {
-        private double first, second;
+        
+	//Test edit with UI
+	private double first, second;
         private string sum ,operator1;
         private InterfaceLog log = null;
         //Polymorphism
