@@ -9,7 +9,7 @@ namespace ClassLibrary1
 {
     public class Calculator
     {
-        
+        //Test STATUS
 	//Test edit with UI
 	private double first, second;
         private string sum ,operator1;
